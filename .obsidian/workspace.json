@@ -162,8 +162,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f198f3084d47803a",
+  "active": "2d034ce4a260ff48",
   "lastOpenFiles": [
+    "UTILITY/README.md",
+    "THEATER/README.md",
+    "TECHNOLOGY/README.md",
+    "SURVIVAL/README.md",
+    "SPORT/README.md",
+    "SOCIOLOGY/README.md",
+    "RELIGION/README.md",
+    "PSYCHOLOGY/README.md",
+    "PHYSICS/README.md",
+    "PHILOSOPHY/README.md",
+    "MYTHOLOGY/README.md",
+    "MUSIC/README.md",
+    "MEDICINE/README.md",
+    "MATHEMATICS/README.md",
+    "LITERATURE/README.md",
+    "LAW/README.md",
+    "LANGUAGE/README.md",
+    "HISTORY/README.md",
+    "GEOGRAPHY/README.md",
+    "GAMES/README.md",
+    "FILM/README.md",
+    "ENVIRONMENT/README.md",
+    "ENGINEERING/README.md",
+    "ECONOMICS/README.md",
+    "CHEMISTRY/README.md",
+    "BIOLOGY/README.md",
     "UTILITY",
     "New folder",
     "SURVIVAL",
@@ -173,7 +199,6 @@
     "ARTS",
     "GEOGRAPHY",
     "GAMES",
-    "MUSIC",
-    "HISTORY"
+    "MUSIC"
   ]
 }
