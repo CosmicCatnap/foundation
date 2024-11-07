@@ -1,9 +1,8 @@
-# Foundation Archive
+# Foundation Archive ![foundation](https://github.com/user-attachments/assets/2cd6270c-d62d-4ca7-9849-ff324739e626)
 The Foundation Archive is a corpus of film, literature, music, and other data maintained and replicated by individuals(foundation archivists) for use before, during, and after a collapse of civilization as we know it. The Foundation Archive has two primary goals.
 
 * Provide carefully selected subset of crucial media as a reference system and curriculum for people curious to learn and explore
 * Replication and distribution of our most critical achievements in the event of societal collapses which results in the loss of access to information.
-
 
 ## Why "Foundation"
 Foundation is based on the Foundation series by Isaac Asimov in which a group of mathematicians and scientists predict the collapse of a galactic empire. They develop a way to predict the outcomes of various scenarios and set up a foundation on the planet terminus to protect the most critical information in order to greatly reduce the amount of time required to rebuild. The goal of the foundation in the book mimics the goal of the Foundation Archive with the unfortunate exception that we do not possess psychohistory and with the fortunate exception that we do not have to consider the problems of space travel. The archive itself is a tribute to Asimov as it is to society for asking the obvious question and proposing a possible action.
