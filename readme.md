@@ -1,8 +1,10 @@
-# <center>Foundation</center> ![foundation](https://github.com/user-attachments/assets/2cd6270c-d62d-4ca7-9849-ff324739e626)
+# <center>Foundation</center> 
+
+![foundation](https://github.com/user-attachments/assets/2cd6270c-d62d-4ca7-9849-ff324739e626)
 
 The Foundation is a corpus of video, text, music, and various other media for the purpose of replication and distribution by individuals(archivists) for use before, during, and after the collapse of civilization.
 
-The Foundation Archive has three primary goals.
+The Foundation Archive maintains the Foundation with (3) primary goals in mind
 * Provide recommendations for how data should be formatted, stored, structured and retrieved for ease of personal use and consistancy
 * Curate a carefully selected manifest of crucial media that can be used as a broad education for current and future generations
 * Replicate and distribute this archive in order to decentralize it in the hope that our most critical achievements survive a societal collapse
@@ -36,15 +38,20 @@ I encourage archivists to consider carefully anything they add beyond the itemiz
 * Each person should be mindful of how, where, and why they store this data. Many storage providers will likely not survive and may consider the duplication of material against their usage policy or against a particular nations laws or regulations and therefore each dataset is to be stored locally by each archivist regardless of any replicated sets on external providers.
 * Each archivist is expected to be respectful, helpful, and supportive because it is in the interest of our species that this dataset be gathered and replicated by as many people as possible, a task which is tedious and not easily achieved and as such should be encouraged, promoted, and commended. Considering this it should be customary that your particular dataset should store in its root a single text file containing the entirety of whatever message you find best to tell your story, such that if only a few of these survive the successful dataset will award its archivist memorandum much the same way we now know the works of antiquity through the diligent efforts of scribes and scholars who copied the works across generations for their preservation, leaving little more than names and dates to reward them.
 
+## Location and language
+
+Since distributions are designed to survive locally they should prioritize the language and standards of their archives physical location and so all media in an archivists collection should support subtitles and store literature in the native language spoken in their area. The language folder will contain a series of cross translation dictionaries and archivists are encouraged to ensure that translation dictionaries to and from their native language into other major languages should be included here
+
 ## Syntax and Conventions
 Uniformity is important for archival as it gives us a system to agree upon for petty decisions such as case and space. The following are the recommended conventions and guidelines for folder structure, naming, and organization. File encoding conventions are chosen based on the most common and therefore most likely to have good documentation, support, and compatibility.
 
-Filename Conventions
+### Naming Conventions
 
 * No spaces, all spaces should be replaces with '-'(Hyphen)
 * All files should use lower case letters
 * No special characters
 
+### Format and Encoding
 
 * All text files should be encoded using UTF-8
 * Video should be encoded using H.264 and AAC with MP4 as its container
@@ -53,4 +60,21 @@ Filename Conventions
 * Software should include source and static linked portable builds for MacOS, Windows, and Linux. Mobile should include Android and iOS
 * Photos should be in JPEG format
 * Dates should adhere to ISO 8601:2004 such as YYYYMMDD
- 
+
+### Programming and Scripting
+
+Software can be committed alongside the repository to assist other archivists and this is highly encouraged, provided they follow the following conditions designed for best portability and compatability.
+
+1. Software must use the C(99) Programming language or Python(LTS)
+2. Software must include all required library code and use static linking
+3. Software must include a compiler/interpreter for each major environment (Windows, MacOS, Linux)
+
+The C programming language is used to build our most critical software such as operating systems and drivers and therefore has the highest compatability across architectures and configurations. The foundation understands that programming in C is difficult for those not experienced in it and therefore a secondary option is Python which is commonly used by scientists. Ideally implementations should exist in both lanuages is possible.
+
+## Secondary Sources
+
+While the context in this repository has a focus on careful selection over bulk archival, it does consider some additiona external sources to be nessisary. External sources should be stored in the ZIM format alongside a multi-platform copy of the portable version of (https://wiki.kiwix.org) and a checkout of its codebase.
+
+### Dictionary
+No archive would be complete without a dictionary for reference and Wikipedia provides the most license compatable source for our dictionary. It is recommended that Archivists store a text only version in the ZIM format, find out more here(https://library.kiwix.org)
+
