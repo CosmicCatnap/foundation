@@ -1,0 +1,3 @@
+# Physics
+
+A core selection of works on physics is critical to rebuilding a sensible world and should inclue historically relevant books yes but first and formost it should ensure that an inexperienced person of sound mind could grasp the fundamentials of Kinematics, and a small but accessible amount of information should be concerned with higher abstrations such as quantum mechanics or relativity as it does little good to explore time dialation when you die of thirst trying to build an aquaduct or pillaged because you failed to construct a bridge to defend your village. 

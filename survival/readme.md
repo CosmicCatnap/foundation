@@ -1,0 +1,3 @@
+# Survival
+No archive for the end times would be complete without a section dealing explicitly with survival. The core goal of this subject is to provide practical, reliable, and easily navigated descriptions of how to survive under a wide range of conditions and environments. General works of survival will be stored in the root of this directory while works dealing with very specific topics will be labled under a directory with that topics name. For example a fictional book named "How to survive anything: 100 ways" would go in the root but "Nuts and Seeds: 1001 different types" would go specifically under "foraging"
+
