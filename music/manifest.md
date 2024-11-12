@@ -1,7 +1,7 @@
 # Music manifest is segmented into 100 contemporary albums and 100 classical works
 
 # Contemporary 
-
+```
 A Tribe Called Quest - The Low End Theory
 Alice Cooper - Welcome to My Nightmare
 American Football - American Football
@@ -101,3 +101,4 @@ Weezer - Pinkerton
 Who, The - Who's Next
 Wilco - Yankee Hotel Foxtrot
 Willie Nelson - Red Headed Stranger
+```
