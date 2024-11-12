@@ -4,6 +4,8 @@
 
 Music is one of the more difficult subjets to determine selection because so much of what makes music wonderful is personal and subjective. The loose goal of the music component of the foundation archive is to select music which displayed as wide as possible the diversity of musical tastes while also keeping the selection of items of low quantity and high quality. Even with conservative storage conventions music can become a storage intensive media and as such the archive will only select particular albums from artists.
 
+Albums will also have a bias for their utility in a potental collapse, meaning that albums with concepts which require few current cultural references and albums with significant lyrical depictions of our current society are given preference. Albums are also selected in such a way as to reduce clustering of genres and includes only specific albums from each genre if possible. A small but existant preference will also be given to albums which might provide some solace in the end times, a task that is not particularly difficult as many of the greatest albums are concerned with end times.
+
 ## Structure and Metadata
 
 The structure should be the name of the artist and then the album name in the root of this directory for example
