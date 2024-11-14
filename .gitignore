@@ -1,0 +1,16 @@
+# LITERATURE
+**/*.pdf
+**/*.epub
+**/*.txt
+
+# MUSIC
+**/*.aac
+**/*.wav
+
+# VIDEO
+**/*.mp4
+**/*.nfo
+
+# IMAGES
+**/*.jpg
+**/*.jpeg

@@ -1,0 +1,3 @@
+# Why Military Field Manuals?
+
+Each year more money is spent on the various militaries of the world than practically any humanitarian effort or social program, which is probably the reason you are reading this in the first place. That means military manuals provide well researched tactics and procedures for survival under various conditions. The United States military campaigns in particular have covered many environments and scenarios that one might find themselves in. Considerting that their core motive in writing their manuals is the survival of each individual without profit motive, they are useful resources written in simple and organized language for the most practical of purposes.

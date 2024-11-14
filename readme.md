@@ -56,7 +56,7 @@ Uniformity is important for archival as it gives us a system to agree upon for p
 * All text files should be encoded using UTF-8
 * Video should be encoded using H.264 and AAC with MP4 as its container
 * Audio should be in AAC or optionally WAV
-* Plain text readable files are preferred over encoded filetypes
+* Plain text readable files are preferred over encoded filetypes but epub and pdf are acceptible if formatting is critical
 * Software should include source and static linked portable builds for MacOS, Windows, and Linux. Mobile should include Android and iOS
 * Photos should be in JPEG format
 * Dates should adhere to ISO 8601:2004 such as YYYYMMDD
